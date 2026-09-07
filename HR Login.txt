@@ -1,0 +1,3 @@
+HR Login:
+User ID: hr@attendance.com
+Password: admin123
